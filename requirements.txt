@@ -1,0 +1,4 @@
+opencv-python == 4.4.0.46
+numpy == 1.19.3
+pydicom~=2.2.2
+scikit-image~=0.18.3
