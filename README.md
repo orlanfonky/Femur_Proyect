@@ -1,6 +1,6 @@
 # Proyecto Asignatura "Procesamiento de Imágenes y Video"
-## Leonard Stuart Burgos Jiménez
 ## Orlando Abaunza Ubaque
+## Leonard Stuart Burgos Jiménez
 
 <br/>
 <br/>
